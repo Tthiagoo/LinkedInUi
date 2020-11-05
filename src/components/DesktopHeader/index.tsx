@@ -31,7 +31,7 @@ const Header: React.FC = () => {
               <span>Notificações</span>
             </button>
             <button>
-              <ProfileCircle src="https://github.com/guilhermerodz.png" />
+              <ProfileCircle src="https://avatars1.githubusercontent.com/u/51219408?s=460&u=f10fcb3577198bff3012f153c6fb53e043cfdcb9&v=4" />
               <span>
                 Eu <CaretDownIcon />
               </span>

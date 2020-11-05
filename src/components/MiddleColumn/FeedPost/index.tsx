@@ -20,17 +20,17 @@ const FeedPost: React.FC = () => {
     <Panel>
       <Container>
         <Row className="heading">
-          <Avatar src="https://i.imgur.com/81RtXfT.jpg" alt="Rocketseat" />
+          <Avatar src="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515358_10512.png" alt="Google" />
           <Column>
-            <h3>Rocketseat</h3>
-            <h4>Instituição de ensino</h4>
+            <h3>Google</h3>
+            <h4>Empresa de Tecnologia</h4>
             <time>1 sem</time>
           </Column>
         </Row>
 
         <PostImage
-          src="https://blog.rocketseat.com.br/content/images/2019/05/Painel.png"
-          alt="Rocketseat Blog"
+          src="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.2968625:1595353307/Google-Brasil.jpg?f=16x9&$p$f=c2ea591"
+          alt="Google"
         />
 
         <Row className="likes">
