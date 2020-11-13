@@ -11,3 +11,6 @@
  - StyledComponents
  - TypeScript
  
+ 
+ ### Deploy
+ Veja [aqui](https://clonelinkedinui.netlify.app/) uma visualização deste projeto 
